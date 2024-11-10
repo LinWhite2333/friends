@@ -1,0 +1,12 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "LinWhite Home",
+      "url": "https://linwhome.com/",
+      "avatar": "https://gcore.jsdelivr.net/gh/LinWhite2333/bassets@main/images/general/logo256.png",
+      "screenshot": "https://gcore.jsdelivr.net/gh/LinWhite2333/bassets@main/images/general/linwhome.com_.png",
+      "description": "个人博客"
+    }
+  ]
+}
